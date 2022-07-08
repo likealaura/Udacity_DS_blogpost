@@ -17,12 +17,6 @@ This code runs on Python version 3.* and relies on certain libraries, which can 
 The data of Stackoverflow’s 2021 Annual Developer Survey can be downloaded [here]: 
 (https://insights.stackoverflow.com/survey). </br>
 
-For moving the downloaded files to their destination folder, you can execute. </br>
-
-Stackoverflow’s 2021 data </br>
-` mv survey_results_public.csv Udacity_DS_blogpost/data/2021/ `</br>
-
-
 ## Project Motivation <a name="motivation"></a>
 
 This analysis is dedicated to an Udacity Nanodegree project. I am interested in analysing the Stackoverflow Developer Survey Data guided by these questions:</br>
@@ -33,7 +27,7 @@ This analysis is dedicated to an Udacity Nanodegree project. I am interested in 
 ## File Descriptions <a name="files"></a>
 
 **descriptive_analysis.ipynb**: Notebook containing the data analysis. </br>
-**data/2021/survey_results_public.csv**: Stackoverflow's 2021 Annual Developer Survey data. </br>
+**survey_results_public.csv**: Stackoverflow's 2021 Annual Developer Survey data. </br>
 
 ## What To Do With This Project <a name="todo"></a>
 The main findings of the code can be found at the post available [here](...)
